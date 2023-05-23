@@ -1,7 +1,7 @@
 ![MasterHead](https://i.redd.it/kmfdjllfd4391.jpg)
 
 <h1 align="center">Gmichet :D</h1>
-<h3 align="center">Intentando ser útil</h3>
+<h3 align="center">Intentando...</h3>
 
 <p align="left"> <img src="https://i.ibb.co/5YywGvX/Whoami-D.gif" alt="gmichet" /> </p>
 
