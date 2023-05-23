@@ -1,15 +1,15 @@
 ![MasterHead](https://i.redd.it/kmfdjllfd4391.jpg)
 
-<h1 align="center">Hi, I'm Gmichet</h1>
-<h3 align="center">I'm just a self-taught person trying to improve</h3>
+<h1 align="center">Gmichet :D</h1>
+<h3 align="center">Intentando ser útil</h3>
 
 <p align="left"> <img src="https://i.ibb.co/5YywGvX/Whoami-D.gif" alt="gmichet" /> </p>
 
-- 🌱 I’m currently learning **Python, Nmap and SQL**
+- 🌱 Aprendiendo **Python, Nmap y SQL**
 
-- 💬 Ask me about **Computers**
+- 💬 Hablemos de **Computadoras**
 
-- 📫 How to reach me **gabrielchispudo@gmail.com**
+- 📫 Contacto **gabrielchispudo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
