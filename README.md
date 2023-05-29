@@ -1,15 +1,15 @@
 ![MasterHead](https://i.redd.it/kmfdjllfd4391.jpg)
 
-<h1 align="center">Gmichet :D</h1>
+<h1 align="center">Gmichet</h1>
 <h3 align="center">Intentando...</h3>
 
-<p align="left"> <img src="https://i.ibb.co/5YywGvX/Whoami-D.gif" alt="gmichet" /> </p>
+<p align="left"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPK0xcOo_9rCwkWIUTpyFgLYAeCKVBHLsnQCGuSuBJVKxUpsL7cQF1zcs0c6V9Xi3Cg-rtEm0xoqsMFpQUWzDKPAyyXeM1QfBaZqETTgmc7ais4utPXg54KN74NQkhz2acZiCFKrICs3MoJdyMzSoX9Df3iecgZlmXUxXxoxWek3B-3ONwmERinV2f/s1061/Gmichet.gif)" alt="gmichet" /> </p>
 
-- 🌱 Aprendiendo **Python, Nmap y SQL**
+- 🌱 Aprendiendo **Python**
 
 - 💬 Hablemos de **Computadoras**
 
-- 📫 Contacto **gabrielchispudo@gmail.com**
+- 📫 Contacto **gabrielmichet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
