@@ -1,9 +1,12 @@
-![MasterHead](https://i.redd.it/kmfdjllfd4391.jpg)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLP-brfgEiUDoRYafWR3QW34cSuIvhrE0hc9Kv8GVlfAOY0z4X5RdGN16PN_ZcTokubw3oPb9Df6fRTRIx1TxNdPPE270uy8PBW98aDPiPF60uTd0Z0sccQ5IgEjNv_0zoEIDhSqTzEriIsi0RHT-U4RfdBsam0SICACiNxCHvGTpV-9nBx3Ehy3fzLtU/s942/whoami.gif)
 
-<h1 align="center">Gmichet</h1>
-<h3 align="center">Intentando...</h3>
+<h1 align="center">Entusiasta informático</h1>
 
-<p align="left"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPK0xcOo_9rCwkWIUTpyFgLYAeCKVBHLsnQCGuSuBJVKxUpsL7cQF1zcs0c6V9Xi3Cg-rtEm0xoqsMFpQUWzDKPAyyXeM1QfBaZqETTgmc7ais4utPXg54KN74NQkhz2acZiCFKrICs3MoJdyMzSoX9Df3iecgZlmXUxXxoxWek3B-3ONwmERinV2f/s1061/Gmichet.gif)" alt="gmichet" /> </p>
+Hola me gustan las computadoras y esas cosas.
+
+<p align="center"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbLyp7YcgUYz8E800a2oA_qWmyOzJLRXIpBxF3oXxLvfj9wLc0rEoJKI0xucpPH37yYFukiwyFeNgqdnt4Gi7st8mrIVlWrsRxL4ORuku19VniFbgtZHAr2PTuGS8ZVmRuysjXd8sQSXLLL4fmNYtljFYzRc_cjY3FKjHVIlyVgfN-rvrhZ88LCEECtKU/s320/image.png" alt="gmichet" /> </p>
+
+<h3 align="center">Mejorando pacientemente</h3>
 
 - 🌱 Aprendiendo **Python**
 
