@@ -2,9 +2,9 @@
 
 <h1 align="center">Entusiasta informático</h1>
 
-Hola me gustan las computadoras y esas cosas.
+  Hola me gustan las computadoras y esas cosas.
 
-<p align="center"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbLyp7YcgUYz8E800a2oA_qWmyOzJLRXIpBxF3oXxLvfj9wLc0rEoJKI0xucpPH37yYFukiwyFeNgqdnt4Gi7st8mrIVlWrsRxL4ORuku19VniFbgtZHAr2PTuGS8ZVmRuysjXd8sQSXLLL4fmNYtljFYzRc_cjY3FKjHVIlyVgfN-rvrhZ88LCEECtKU/s320/image.png" alt="gmichet" /> </p>
+<p align="center"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi46EUDqF2HDzzovkzZJXjaTTSdENuBYyPEUf91RecUG4AH2ZsAgasYMEaT-ATdR0JR_QCA-vC-97nQcTJJp4uPA1F6ddvwJkB-jMMpxwaipWh8Jt9W1jFaECnRRYoAkJManwV2nJLFi3hgSKjYZQ1dKjArh-0lfbfsuYlFGtksxd4uGbuDEyf0AJXwSQo/s320/image.pngooooooooooooooooooooooooooooooooooooooooooo" alt="gmichet" /> </p>
 
 <h3 align="center">Mejorando pacientemente</h3>
 
@@ -17,6 +17,7 @@ Hola me gustan las computadoras y esas cosas.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-michet-8b5731228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-michet-8b5731228" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
